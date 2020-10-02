@@ -10,7 +10,7 @@
  
 
     # clone repository
-    $ git clone https://github.com/ViniciusMDuarte/desafio_front--Qc_RubyonRails.git
+    $ git clone https://github.com/ViniciusMDuarte/desafio_front-Qc_RubyonRails.git
 
     # Enter directory
     $ cd desafio_front--Qc_RubyonRails
