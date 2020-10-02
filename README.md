@@ -1,24 +1,25 @@
-# README
+# Learn Ruby - Projeto teste
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+## Para iniciar
 
-* System dependencies
 
-* Configuration
+```bash
 
-* Database creation
+ 
 
-* Database initialization
+    # clone repository
+    $ git clone https://github.com/ViniciusMDuarte/desafio_front--Qc_RubyanRails.git
 
-* How to run the test suite
+    # Enter directory
+    $ cd desafio_front--Qc_RubyanRails
 
-* Services (job queues, cache servers, search engines, etc.)
+    # Install package
+    $ npm install
+    
+    # Start the project
+    $ rails server
 
-* Deployment instructions
-
-* ...
+    # View browser
+    $ http://localhost:3000/
