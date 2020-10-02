@@ -10,10 +10,10 @@
  
 
     # clone repository
-    $ git clone https://github.com/ViniciusMDuarte/desafio_front--Qc_RubyanRails.git
+    $ git clone https://github.com/ViniciusMDuarte/desafio_front--Qc_RubyonRails.git
 
     # Enter directory
-    $ cd desafio_front--Qc_RubyanRails
+    $ cd desafio_front--Qc_RubyonRails
 
     # Install package
     $ npm install
